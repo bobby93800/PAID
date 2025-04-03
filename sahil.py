@@ -24,7 +24,7 @@ loop = asyncio.get_event_loop()
 
 # Bot token
 
-TOKEN = '8118309953:AAGmgdCts2sPxS-gBoIzqoPtuoqyA8ulxY8'
+TOKEN = '7248587968:AAFJq-rQhEHxIJX1fsxEi6skCyOkvYCrqDI'
 
 bot = telebot.TeleBot(TOKEN)
 
