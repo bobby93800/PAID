@@ -64,7 +64,7 @@ CREATOR = "This File Is Made By @SahilModzOwner"  #DON'T CHANGE THIS WARNA ERROR
 
 async def run_attack_command_on_codespace(target_ip, target_port, duration):
 
-    command = f"./Spike {target_ip} {target_port} {duration} 12 750"
+    command = f"./Spike {target_ip} {target_port} {duration} 512 750"
 
     try:
 
